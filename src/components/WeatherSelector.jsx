@@ -98,7 +98,7 @@ const WeatherSelector = () => {
       <div>
         {images.map((image) => (
           <div key={image.id} style={{ marginBottom: "15px" }}>
-            <img src={image.urls.regular} alt={image.alt_description} style={{ width: "100%" }} />
+            <img src={image.urls.regular} alt={image.alt_description} style={{ width: "70%" }} />
             <p><strong>Autore:</strong> {image.user.name}</p>
           </div>
         ))}
