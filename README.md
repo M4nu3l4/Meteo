@@ -61,7 +61,7 @@ const weatherApiKey = "YOUR_WEATHER_API_KEY";</code></pre>
 
   <h2>📸 Screenshot</h2>
   <p>Ecco un'anteprima dell'app:</p>
-  <img src="./public/EpicMeteo.jpgfourth" alt="Screenshot dell'app Weather Selector" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./public/EpicMeteo.jpg" alt="Screenshot dell'app Weather Selector" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 
   <h2>📜 Licenza</h2>
   <p>Questo progetto è distribuito sotto la licenza <strong>MIT</strong>. Puoi trovare maggiori dettagli nel file <code>LICENSE</code>.</p>
