@@ -104,7 +104,7 @@ const WeatherSelector = () => {
         ))}
       </div>
 
-      {/* Mostra il link per tornare alla Home solo se NON siamo sulla Home */}
+      
       {location.pathname !== "/" && (
         <Link to="/" style={{ display: "inline-block", marginTop: "20px" }}>
           Torna alla Home
